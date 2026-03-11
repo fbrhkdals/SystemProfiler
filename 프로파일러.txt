@@ -1,4 +1,0 @@
-Thread ID	12052	52개 스레드 중 범인 번호
-Instruction Addr (RIP)	0x7FFE12A540	현재 실행 중인 절대 주소
-Module Name	UnityPlayer.dll	이 주소가 포함된 파일 이름
-Relative Offset	+0x0045A0	[가장 중요] 파일 시작점부터의 거리
